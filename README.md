@@ -28,5 +28,5 @@ This repository contains implementations for traditional programming versus mach
 - `input.xlsx`: Input dataset for loan approval logic.
 - `TraditionalProgrammingVsML.ipynb`: Traditional rule-based programming for loan evaluations.
 - `TraditionalProgrammingVsML.ipynb`: Machine learning decision tree model for loan predictions.
-- `sentiment_monitor.py`: Hugging Face sentiment analysis framework across multiple problem domains.
-- `rag_framework.py`: Retrieval-Augmented Generation script featuring custom validation and filtering rules.
+- `MLFramework_HuggingFace_SentimentMonitorjalal.ipynb`: Hugging Face sentiment analysis framework across multiple problem domains.
+- `MLFramework_RetrievalAugmentedGeneration.ipynb`: Retrieval-Augmented Generation script featuring custom validation and filtering rules.
