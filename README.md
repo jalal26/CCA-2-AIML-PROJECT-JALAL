@@ -10,10 +10,15 @@ This repository contains implementations for traditional programming versus mach
 | Sr. No. | Student Name | PRN |
 | :--- | :--- | :--- | :--- |
 | 1 | Jalaludheen (Admin) | 1302250261 |
+
 | 2 | [Team Member 2] | [PRN 2] | 
+
 | 3 | [Team Member 3] | [PRN 3] | 
+
 | 4 | [Team Member 4] | [PRN 4] |
+
 | 5 | [Team Member 5] | [PRN 5] | 
+
 | 6 | [Team Member 6] | [PRN 6] |
 
 ---
