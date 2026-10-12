@@ -12,15 +12,15 @@ This repository contains implementations for traditional programming versus mach
 
 | 1 | Jalaludheen (Admin) | 1302250261 |
 
-| 2 | [Team Member 2] | [PRN 2] | 
+| 2 | Vasin Ajith | 1302250253 | 
 
-| 3 | [Team Member 3] | [PRN 3] | 
+| 3 | Munira Kurban hussain | 1302250023 | 
 
-| 4 | [Team Member 4] | [PRN 4] |
+| 4 | Archi Aswani | 1302250091 |
 
-| 5 | [Team Member 5] | [PRN 5] | 
+| 5 | Abigail Durgey | 1302250446 | 
 
-| 6 | [Team Member 6] | [PRN 6] |
+| 6 | Tanishk Kothari | 1302250527 |
 
 ---
 
