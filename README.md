@@ -22,6 +22,8 @@ This repository contains implementations for traditional programming versus mach
 
 | 6 | Tanishk Kothari | 1302250527 |
 
+| 7 | Dhairya Sharma | 1302250136 |
+
 ---
 
 ## Repository Structure
