@@ -26,6 +26,7 @@ This repository contains implementations for traditional programming versus mach
 
 | 8 | Tanishk naidu | 1302250091 |
 
+| 9 | Vrushabh Alva | 1302250519 |
 ---
 
 ## Repository Structure
