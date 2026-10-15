@@ -16,11 +16,15 @@ This repository contains implementations for traditional programming versus mach
 
 | 3 | Munira Kurban hussain | 1302250023 | 
 
-| 4 | Archi Aswani | 1302250091 |
+| 4 | Archi Aswani | 1302250094 |
 
 | 5 | Abigail Durgey | 1302250446 | 
 
 | 6 | Tanishk Kothari | 1302250527 |
+
+| 7 | Dhairya Sharma | 1302250136 |
+
+| 8 | Tanishk naidu | 1302250091 |
 
 ---
 
