@@ -28,6 +28,9 @@ This repository contains implementations for traditional programming versus mach
 
 | 9 | Vrushabh Alva | 1302250519 |
 
+| 10 | Zuhair Mohammed | 1302250657 |
+
+
 ---
 
 ## Repository Structure
